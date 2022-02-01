@@ -1,3 +1,3 @@
-# Github and git confilct
+# Github and git
 ## Phillip Kaiser
 ha4103
