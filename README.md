@@ -1,3 +1,3 @@
-# CSC4110-assignmentOne
+# Github and git
 ## Phillip Kaiser
 ha4103
